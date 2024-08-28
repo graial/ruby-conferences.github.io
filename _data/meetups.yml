@@ -1324,6 +1324,13 @@
   end_time: 20:00:00 PHT
   url: https://www.meetup.com/ruby-phil/events/302886229
 
+- name: Philippine Ruby Users Group - A night of Ruby Community Roadmapping
+  location: ProudCloud, Quezon City, Philippines
+  date: 2024-08-29
+  start_time: 18:00:00 HKT
+  end_time: 20:00:00 HKT
+  url: https://www.meetup.com/ruby-phil/events/302886229/
+
 - name: Polish Ruby User Group - Warsztaty Przywódcze (PRUG) August 2024
   location: Poznań, Poland
   date: 2024-08-29
@@ -1541,6 +1548,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/columbusrb/events/xwwkltygcmbvb
 
+- name: Columbus Ruby Brigade - Monthly Meetup
+  location: Columbus, OH
+  date: 2024-09-16
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/columbusrb/events/303084093
+
 - name: 'Miami Ruby Brigade - '
   location: Coral Gables, FL
   date: 2024-09-16
@@ -1548,12 +1562,26 @@
   end_time: 21:00:00 EDT
   url: https://www.meetup.com/miamirb/events/pdvctsygcmbvb
 
+- name: 'Miami Ruby Brigade - '
+  location: Coral Gables, FL
+  date: 2024-09-16
+  start_time: 19:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/miamirb/events/303077048
+
 - name: Orange County Ruby Users Group - Ruby Science
   location: Online
   date: 2024-09-16
   start_time: 10:00:00 PDT
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/sdczltygcmbvb
+
+- name: Orange County Ruby Users Group - Ruby Science
+  location: Online
+  date: 2024-09-16
+  start_time: 10:00:00 PDT
+  end_time: 11:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/303078883
 
 - name: Boston Ruby Group - September 2024 meeting
   location: Boston, MA
@@ -1646,6 +1674,13 @@
   start_time: 18:30:00 NZST
   end_time: 21:30:00 NZST
   url: https://www.meetup.com/aucklandruby/events/299606026
+
+- name: 'Bangkok.rb - Ruby Tuesday #57'
+  location: เขตวัฒนา, Thailand
+  date: 2024-09-24
+  start_time: 18:30:00 +07
+  end_time: 20:30:00 +07
+  url: https://www.meetup.com/bangkok-rb/events/303075559
 
 - name: RubyJax - Open Hax
   location: Jacksonville, FL
@@ -2263,6 +2298,20 @@
   end_time: 20:00:00 PDT
   url: https://www.meetup.com/portland-ruby-brigade/events/qtnwktygcpbcc
 
+- name: Orange County Ruby Users Group - Ruby Science
+  location: Online
+  date: 2024-11-25
+  start_time: 10:00:00 PDT
+  end_time: 11:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/sdczltygcpbhc
+
+- name: RubyJax - Open Hax
+  location: Jacksonville, FL
+  date: 2024-11-26
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtygcpbjc
+
 - name: Ruby on Rails Switzerland - Railshöck at On Running
   location: Zurich, Switzerland
   date: 2024-11-27
@@ -2311,10 +2360,3 @@
   start_time: 20:30:00 EST
   end_time: 22:00:00 EST
   url: https://www.meetup.com/phillyrb/events/nnlgbtyhccbsb
-
-- name: Philippine Ruby Users Group - A night of Ruby Community Roadmapping
-  location: ProudCloud, Quezon City, Philippines
-  date: 2024-08-29
-  start_time: 18:00:00 HKT
-  end_time: 20:00:00 HKT
-  url: https://www.meetup.com/ruby-phil/events/302886229/
