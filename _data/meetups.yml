@@ -1324,6 +1324,13 @@
   end_time: 20:00:00 PHT
   url: https://www.meetup.com/ruby-phil/events/302886229
 
+- name: Philippine Ruby Users Group - A night of Ruby Community Roadmapping
+  location: ProudCloud, Quezon City, Philippines
+  date: 2024-08-29
+  start_time: 18:00:00 HKT
+  end_time: 20:00:00 HKT
+  url: https://www.meetup.com/ruby-phil/events/302886229/
+
 - name: Polish Ruby User Group - Warsztaty Przywódcze (PRUG) August 2024
   location: Poznań, Poland
   date: 2024-08-29
@@ -1541,6 +1548,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/columbusrb/events/xwwkltygcmbvb
 
+- name: Columbus Ruby Brigade - Monthly Meetup
+  location: Columbus, OH
+  date: 2024-09-16
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/columbusrb/events/303084093
+
 - name: 'Miami Ruby Brigade - '
   location: Coral Gables, FL
   date: 2024-09-16
@@ -1583,6 +1597,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtygcmbwb
 
+- name: RubyJax - Open Hax
+  location: Jacksonville, FL
+  date: 2024-09-17
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/303104994
+
 - name: Toulouse.rb - Conf & Apéro - Septembre
   location: Toulouse, France
   date: 2024-09-17
@@ -1597,12 +1618,26 @@
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/geneva-rb/events/303018636
 
+- name: Portland Ruby Brigade - Cocktails + Code
+  location: Portland, OR
+  date: 2024-09-18
+  start_time: 18:00:00 PDT
+  end_time: 20:00:00 PDT
+  url: https://www.meetup.com/portland-ruby-brigade/events/303221067
+
 - name: Rails Taiwan - 高雄 Rails Meetup
   location: Kaohsiung, Taiwan
   date: 2024-09-18
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcmbxb
+
+- name: Rails Taiwan - 高雄 Rails Meetup
+  location: Kaohsiung, Taiwan, Province of China
+  date: 2024-09-18
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/303114134
 
 - name: West Midlands Ruby User Group - Monthly Meetup
   location: Online
@@ -1611,6 +1646,13 @@
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzrygcmbxb
 
+- name: West Midlands Ruby User Group - Monthly Meetup
+  location: Online
+  date: 2024-09-18
+  start_time: 19:00:00 BST
+  end_time: 21:00:00 BST
+  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/303122363
+
 - name: 'Christchurch Ruby Group - Monthly Meetup: TBD'
   location: Christchurch, New Zealand
   date: 2024-09-19
@@ -1618,12 +1660,26 @@
   end_time: 22:30:00 NZST
   url: https://www.meetup.com/christchurch-ruby-group/events/jtzjwsygcmbzb
 
+- name: 'Polish Ruby User Group - (PLRUG) Warsaw meetup #September'
+  location: Warszawa, Poland
+  date: 2024-09-19
+  start_time: 18:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/polishrubyusergroup/events/303197441
+
 - name: Portland Ruby Brigade - Cocktails + Code
   location: Portland, OR
   date: 2024-09-19
   start_time: 18:00:00 PDT
   end_time: 20:00:00 PDT
   url: https://www.meetup.com/portland-ruby-brigade/events/302855296
+
+- name: 'RubyJax - From Theory to Practice: Building Comprehensive PL/SQL Test Suites'
+  location: Online
+  date: 2024-09-19
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://www.meetup.com/rubyjax/events/303264670
 
 - name: Ruby and Rails Adelaide - Ruby Burgers
   location: Adelaide, Australia
@@ -1639,6 +1695,27 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/hqdljtygcmbcc
 
+- name: African Ruby Community - ARC Kampala Chapter Mini workshop
+  location: Online
+  date: 2024-09-21
+  start_time: 11:00:00 EAT
+  end_time: 13:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/303170792
+
+- name: Bangalore Ruby Users Group - Bengaluru Ruby Users Meetup - September 2024
+  location: Bangalore, India
+  date: 2024-09-21
+  start_time: 10:00:00 IST
+  end_time: 12:00:00 IST
+  url: https://www.meetup.com/bangalore-ruby-users-group/events/303346229
+
+- name: Pune Ruby Users Group - September Meetup
+  location: Pune, India
+  date: 2024-09-21
+  start_time: 11:00:00 IST
+  end_time: 13:00:00 IST
+  url: https://www.meetup.com/punerubymeetup/events/303153624
+
 - name: 'Auckland Ruby - Ruby Night September: Hacknight - Write your AI battle ship
     - Take 2'
   location: Auckland, New Zealand
@@ -1647,6 +1724,27 @@
   end_time: 21:30:00 NZST
   url: https://www.meetup.com/aucklandruby/events/299606026
 
+- name: 'Bangkok.rb - Ruby Tuesday #57'
+  location: เขตวัฒนา, Thailand
+  date: 2024-09-24
+  start_time: 18:30:00 +07
+  end_time: 20:30:00 +07
+  url: https://www.meetup.com/bangkok-rb/events/303075559
+
+- name: BelfastRuby - Ruby On Rails
+  location: Belfast, United Kingdom of Great Britain and Northern Ireland
+  date: 2024-09-24
+  start_time: 19:00:00 BST
+  end_time: 21:00:00 BST
+  url: https://www.meetup.com/belfastruby/events/303119630
+
+- name: Ruby Zagreb - RubyZG September meetup @ MaMa
+  location: Zagreb, Croatia
+  date: 2024-09-24
+  start_time: 18:00:00 CEST
+  end_time: 19:30:00 CEST
+  url: https://www.meetup.com/rubyzg/events/303416478
+
 - name: RubyJax - Open Hax
   location: Jacksonville, FL
   date: 2024-09-24
@@ -1654,12 +1752,26 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtygcmbgc
 
+- name: RubyJax - Open Hax
+  location: Jacksonville, FL
+  date: 2024-09-24
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/303245553
+
 - name: Rails Taiwan - 高雄 Rails Meetup
   location: Kaohsiung, Taiwan
   date: 2024-09-25
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcmbhc
+
+- name: Rails Taiwan - 高雄 Rails Meetup
+  location: Kaohsiung, Taiwan, Province of China
+  date: 2024-09-25
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/303253481
 
 - name: Austin.rb - Ruby Social - Morning
   location: Austin, TX
@@ -1675,12 +1787,26 @@
   end_time: 21:00:00 PDT
   url: https://www.meetup.com/ocruby/events/pbgwwqygcmbjc
 
+- name: Polish Ruby User Group - PRUG - September 2024
+  location: Poznań, Poland
+  date: 2024-09-26
+  start_time: 18:00:00 CEST
+  end_time: 20:00:00 CEST
+  url: https://www.meetup.com/polishrubyusergroup/events/303347188
+
 - name: Ruby and Rails Melbourne - Melbourne Ruby
   location: Southbank, Australia
   date: 2024-09-26
   start_time: 18:00:00 AEST
   end_time: 21:00:00 AEST
   url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/297781285
+
+- name: "Nantes.rb - \U0001F680 C'est la rentrée pour les fans de Ruby ! \U0001F680"
+  location: Nantes, France
+  date: 2024-09-27
+  start_time: 19:30:00 CEST
+  end_time: 21:30:00 CEST
+  url: https://www.meetup.com/nantes-rb/events/303348681
 
 - name: Orange County Ruby Users Group - Ruby Science
   location: Online
@@ -1724,6 +1850,27 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtygcnbcb
 
+- name: RubyJax - Open Hax
+  location: Jacksonville, FL
+  date: 2024-10-01
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/303379089
+
+- name: 'Barcelona.rb - meetup #October'
+  location: Barcelona, Spain
+  date: 2024-10-02
+  start_time: 18:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/barcelona-rb/events/303366619
+
+- name: Montreal.rb - **Talk Title To be Determined**
+  location: Montréal, Canada
+  date: 2024-10-02
+  start_time: 18:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/montrealrb/events/303362103
+
 - name: Montreal.rb - Talk Title To be Determined
   location: Montréal, Canada
   date: 2024-10-02
@@ -1738,12 +1885,26 @@
   end_time: 19:00:00 CEST
   url: https://www.meetup.com/praguerb/events/dkmktfygcnbdb
 
+- name: Prague.rb - First Wednesday Of The Month - Ruby
+  location: Prague, Czechia
+  date: 2024-10-02
+  start_time: 19:00:00 CEST
+  end_time: 19:00:00 CEST
+  url: https://www.meetup.com/praguerb/events/303395693
+
 - name: Rails Taiwan - 高雄 Rails Meetup
   location: Kaohsiung, Taiwan
   date: 2024-10-02
   start_time: 19:00:00 CST
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcnbdb
+
+- name: Rails Taiwan - 高雄 Rails Meetup
+  location: Kaohsiung, Taiwan, Province of China
+  date: 2024-10-02
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/303388604
 
 - name: SD Ruby - Meetup October 2024
   location: San Diego, CA
@@ -1766,6 +1927,13 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/hqdljtygcnbhb
 
+- name: African Ruby Community - ARC Kampala Chapter Mini workshop
+  location: Online
+  date: 2024-10-05
+  start_time: 11:00:00 EAT
+  end_time: 13:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/303442712
+
 - name: Boston Ruby Group - Project Night
   location: Boston, MA
   date: 2024-10-07
@@ -1786,6 +1954,13 @@
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
   url: https://www.meetup.com/bmore-on-rails/events/rkzbjsygcnblb
+
+- name: 'ParisRB.new - ParisRb.new(:monthly, on: :first_tuesday)'
+  location: Paris, France
+  date: 2024-10-08
+  start_time: 19:15:00 CEST
+  end_time: 22:00:00 CEST
+  url: https://www.meetup.com/paris_rb/events/303209426
 
 - name: Philly.rb - Pubnite October 2024
   location: Online
@@ -1821,6 +1996,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:30:00 EDT
   url: https://www.meetup.com/atlantaruby/events/tczcxrygcnbmb
+
+- name: Atlanta Ruby - [VIRTUAL] The Meetup Group Monthly Meetup
+  location: Online
+  date: 2024-10-09
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://www.meetup.com/atlantaruby/events/303393799
 
 - name: Boulder Ruby Group - Monthly Presentation Night
   location: Boulder, CO / Online
@@ -1878,6 +2060,13 @@
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/sdczltygcnbsb
 
+- name: 'STLRuby - Bring Your Ruby Tricks: A Fun Exploration of Ruby’s Quirks'
+  location: Saint Louis, MO
+  date: 2024-10-14
+  start_time: 18:00:00 CDT
+  end_time: 20:00:00 CDT
+  url: https://www.meetup.com/stlruby/events/303298491
+
 - name: RubyJax - Open Hax
   location: Jacksonville, FL
   date: 2024-10-15
@@ -1891,6 +2080,13 @@
   start_time: 19:00:00 CEST
   end_time: 21:00:00 CEST
   url: https://www.meetup.com/geneva-rb/events/303018643
+
+- name: Portland Ruby Brigade - Cocktails + Code
+  location: Portland, OR
+  date: 2024-10-16
+  start_time: 18:00:00 PDT
+  end_time: 20:00:00 PDT
+  url: https://www.meetup.com/portland-ruby-brigade/events/nzpdntygcnbvb
 
 - name: Rails Taiwan - 高雄 Rails Meetup
   location: Kaohsiung, Taiwan
@@ -1947,6 +2143,13 @@
   start_time: 18:00:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/columbusrb/events/xwwkltygcnbcc
+
+- name: Columbus Ruby Brigade - Monthly Meetup
+  location: Columbus, OH
+  date: 2024-10-21
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/columbusrb/events/303256232
 
 - name: 'Miami Ruby Brigade - '
   location: Coral Gables, FL
@@ -2059,6 +2262,20 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtygcpbhb
+
+- name: Montreal.rb - **Talk Title To be Determined**
+  location: Montreal, Canada
+  date: 2024-11-06
+  start_time: 18:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/montrealrb/events/zxzgntygcpbjb
+
+- name: Montreal.rb - **Talk Title To be Determined**
+  location: Montreal, Canada
+  date: 2024-11-06
+  start_time: 18:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/montrealrb/events/303412149
 
 - name: Montreal.rb - Talk Title To be Determined
   location: Montréal, Canada
@@ -2221,6 +2438,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/columbusrb/events/xwwkltygcpbxb
 
+- name: Columbus Ruby Brigade - Monthly Meetup
+  location: Columbus, OH
+  date: 2024-11-18
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/columbusrb/events/303256250
+
 - name: 'Miami Ruby Brigade - '
   location: Coral Gables, FL
   date: 2024-11-18
@@ -2234,6 +2458,13 @@
   start_time: 18:30:00 EDT
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtygcpbzb
+
+- name: Portland Ruby Brigade - Cocktails + Code
+  location: Portland, OR
+  date: 2024-11-20
+  start_time: 18:00:00 PDT
+  end_time: 20:00:00 PDT
+  url: https://www.meetup.com/portland-ruby-brigade/events/nzpdntygcpbbc
 
 - name: Rails Taiwan - 高雄 Rails Meetup
   location: Kaohsiung, Taiwan
@@ -2263,12 +2494,47 @@
   end_time: 20:00:00 PDT
   url: https://www.meetup.com/portland-ruby-brigade/events/qtnwktygcpbcc
 
+- name: RubyJax - Open Hax
+  location: Jacksonville, FL
+  date: 2024-11-26
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtygcpbjc
+
+- name: Rails Taiwan - 高雄 Rails Meetup
+  location: Kaohsiung, Taiwan, Province of China
+  date: 2024-11-27
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcpbkc
+
 - name: Ruby on Rails Switzerland - Railshöck at On Running
   location: Zurich, Switzerland
   date: 2024-11-27
   start_time: 18:30:00 CET
   end_time: 20:30:00 CET
   url: https://www.meetup.com/rubyonrails-ch/events/301751612
+
+- name: Ruby and Rails Melbourne - Melbourne Ruby
+  location: Southbank, Australia
+  date: 2024-11-28
+  start_time: 18:00:00 AEST
+  end_time: 21:00:00 AEST
+  url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/297781304
+
+- name: Ruby and Rails Adelaide - Ruby Burgers
+  location: Adelaide, Australia
+  date: 2024-11-29
+  start_time: 18:00:00 ACST
+  end_time: 20:00:00 ACST
+  url: https://www.meetup.com/adelaiderb/events/dzcvqsygcpbmc
+
+- name: African Ruby Community - ARC Kampala Chapter Mini workshop
+  location: Online
+  date: 2024-11-30
+  start_time: 11:00:00 EAT
+  end_time: 13:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/301647150
 
 - name: Bluegrass Ruby Users Group - December 2024
   location: Lexington, KY
@@ -2284,12 +2550,47 @@
   end_time: 21:30:00 EST
   url: https://www.meetup.com/charlotte-rb/events/nqchktygcqbfb
 
+- name: RubyJax - Open Hax
+  location: Jacksonville, FL
+  date: 2024-12-03
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtygcqbfb
+
+- name: Montreal.rb - **Talk Title To be Determined**
+  location: Montreal, Canada
+  date: 2024-12-04
+  start_time: 18:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/montrealrb/events/zxzgntygcqbgb
+
+- name: Prague.rb - First Wednesday Of The Month - Ruby
+  location: Prague, Czechia
+  date: 2024-12-04
+  start_time: 19:00:00 CEST
+  end_time: 19:00:00 CEST
+  url: https://www.meetup.com/praguerb/events/dkmktfygcqbgb
+
+- name: Rails Taiwan - 高雄 Rails Meetup
+  location: Kaohsiung, Taiwan, Province of China
+  date: 2024-12-04
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcqbgb
+
 - name: SD Ruby - Meetup December 2024
   location: San Diego, CA
   date: 2024-12-05
   start_time: 19:00:00 PST
   end_time: 21:00:00 PST
   url: https://www.meetup.com/sdruby/events/hjmpmtygcqbhb
+
+- name: Austin.rb - Placeholder
+  location: Austin, TX
+  date: 2024-12-10
+  start_time: 18:30:00 CDT
+  end_time: 20:30:00 CDT
+  url: https://www.meetup.com/austinrb/events/297610760
 
 - name: Philly.rb - Pubnite December 2024
   location: Online
@@ -2298,6 +2599,42 @@
   end_time: 22:00:00 EST
   url: https://www.meetup.com/phillyrb/events/nnlgbtygcqbnb
 
+- name: RubyJax - Open Hax
+  location: Jacksonville, FL
+  date: 2024-12-10
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtygcqbnb
+
+- name: 'Utah Ruby Users Group - URUG Meetup: Topic TBD'
+  location: Lehi, UT
+  date: 2024-12-10
+  start_time: 19:00:00 MDT
+  end_time: 21:00:00 MDT
+  url: https://www.meetup.com/utah-ruby-users-group/events/302953317
+
+- name: Atlanta Ruby - [VIRTUAL] The Meetup Group Monthly Meetup
+  location: Online
+  date: 2024-12-11
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://www.meetup.com/atlantaruby/events/tczcxrygcqbpb
+
+- name: Geneva.rb - More everyday performance rules for Ruby on Rails developers (Alexis
+    Bernard)
+  location: Genève, Switzerland
+  date: 2024-12-11
+  start_time: 19:00:00 CEST
+  end_time: 21:00:00 CEST
+  url: https://www.meetup.com/geneva-rb/events/303018673
+
+- name: Indy.rb - - The Indianapolis Ruby Brigade Monthly Meetup
+  location: Indianapolis, IN
+  date: 2024-12-11
+  start_time: 19:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/indyrb/events/pqvlhtygcqbpb
+
 - name: NYC.rb - December 2024
   location: Online
   date: 2024-12-11
@@ -2305,16 +2642,51 @@
   end_time: 19:00:00 EST
   url: https://www.meetup.com/nyc-rb/events/hkbsltygcqbpb
 
+- name: Paris Ruby Workshop - Workshop chez
+  location: Paris, France
+  date: 2024-12-11
+  start_time: 19:15:00 CEST
+  end_time: 21:15:00 CEST
+  url: https://www.meetup.com/paris-ruby-workshop/events/gtswgtygcqbpb
+
+- name: Rails Taiwan - 高雄 Rails Meetup
+  location: Kaohsiung, Taiwan, Province of China
+  date: 2024-12-11
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcqbpb
+
+- name: 'African Ruby Community - Ruby Thursdays: To be determined (Zoom)'
+  location: Nairobi, Kenya
+  date: 2024-12-12
+  start_time: 18:00:00 EAT
+  end_time: 20:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/mbgmgtygcqbqb
+
+- name: Ruby and Rails Adelaide - Ruby Burgers
+  location: Adelaide, Australia
+  date: 2024-12-13
+  start_time: 18:00:00 ACST
+  end_time: 20:00:00 ACST
+  url: https://www.meetup.com/adelaiderb/events/dzcvqsygcqbrb
+
+- name: African Ruby Community - ARC Kampala Chapter Mini workshop
+  location: Online
+  date: 2024-12-14
+  start_time: 11:00:00 EAT
+  end_time: 13:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/hqdljtygcqbsb
+
+- name: 'Miami Ruby Brigade - '
+  location: Coral Gables, FL
+  date: 2024-12-16
+  start_time: 19:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/miamirb/events/pdvctsygcqbvb
+
 - name: Philly.rb - Pubnite January 2025
   location: Online
   date: 2025-01-14
   start_time: 20:30:00 EST
   end_time: 22:00:00 EST
   url: https://www.meetup.com/phillyrb/events/nnlgbtyhccbsb
-
-- name: Philippine Ruby Users Group - A night of Ruby Community Roadmapping
-  location: ProudCloud, Quezon City, Philippines
-  date: 2024-08-29
-  start_time: 18:00:00 HKT
-  end_time: 20:00:00 HKT
-  url: https://www.meetup.com/ruby-phil/events/302886229/
